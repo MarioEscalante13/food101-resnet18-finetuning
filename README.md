@@ -69,7 +69,8 @@ These findings highlight the importance of **data diversity** and **robust augme
 ## 📄 Report
 
 📘 **Full research report (PDF):**  
-👉 *[Download here]MCIT_Final_Report_Data_Science.pdf*
+👉 [*[Download here]MCIT_Final_Report_Data_Science.pdf*](https://github.com/MarioEscalante13/food101-resnet18-finetuning/raw/main/MCIT_Final_Report_Data_Science.pdf
+)
 
 The report details methodology, experiments, ablation studies, and analysis in an academic-style format.
 
