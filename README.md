@@ -69,7 +69,7 @@ These findings highlight the importance of **data diversity** and **robust augme
 ## 📄 Report
 
 📘 **Full research report (PDF):**  
-👉 *PDF file located in this repository*
+👉 *[Download here]MCIT_Final_Report_Data_Science.pdf*
 
 The report details methodology, experiments, ablation studies, and analysis in an academic-style format.
 
